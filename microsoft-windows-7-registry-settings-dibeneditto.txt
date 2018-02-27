@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-; TITLE: microsoft-windows-7-registry-settings-dibeneditto.reg.txt
+; TITLE: microsoft-windows-7-registry-settings-dibeneditto.txt
 ; AUTHOR: Lukas W. DiBeneditto
 ; CREATED: 2017-07-23
 ; DESCRIPTION: Opinionated selection of Microsoft Windows 7 Registry 
