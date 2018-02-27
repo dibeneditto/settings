@@ -70,7 +70,6 @@ Windows Registry Editor Version 5.00
 "DisableThumbnailCache"=dword:00000001
 
 
-//+--------++--------++--------++--------++--------++--------++--------+
 ; Explorer -> Tools -> Folder Options
 ;
 ; General tab
