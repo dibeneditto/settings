@@ -14,7 +14,7 @@ Windows Registry Editor Version 5.00
 ; NOTE: Text file should be Windows Encoding Unicode
 ; PUBLISHER: Lukas W. DiBeneditto
 ; URL: https://goo.gl/MJPxd3
-; VERSION: 1.0.1
+; VERSION: 1.0.2
 
 
 ; USAGE: 
@@ -79,7 +79,7 @@ Windows Registry Editor Version 5.00
 ;
 ; View tab
 ;   Files and Folders
-;     [ ] Always show icons, never thumbnails
+;     [x] Always show icons, never thumbnails
 ;     [x] Always show menus
 ;     [x] Display file icon on thumbnails
 ;     [x] Display file size information in folder tips
@@ -107,7 +107,7 @@ Windows Registry Editor Version 5.00
 "SuperHidden"=dword:00000000
 "SeparateProcess"=dword:00000000
 "AutoCheckSelect"=dword:00000000
-"IconsOnly"=dword:00000000
+"IconsOnly"=dword:00000001
 "ShowTypeOverlay"=dword:00000001
 "ListviewAlphaSelect"=dword:00000001
 "ListviewShadow"=dword:00000001
